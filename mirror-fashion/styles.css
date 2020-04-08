@@ -1,0 +1,26 @@
+body{
+    color: #333333;
+    font-family: serif;
+}
+
+#titulo{
+    background-image: url(img/sobre-background.jpg);
+}
+
+#subtitulo{
+    border-bottom: 2px solid #333333;
+}
+
+figure{
+    background-color: #f2eded;
+    border: 1px solid #cccccc;
+    text-align: center;
+}
+
+figcaption{
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
